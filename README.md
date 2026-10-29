@@ -2,6 +2,8 @@
 
 A React + Vite portfolio with a browser-only interactive Superpower Shell. Designed as a static site for AWS Amplify Hosting.
 
+The portfolio content is grounded in the verified [Manish.pdf](./public/Manish.pdf) resume: Axflo Pump Solution experience, Big Data Analytics studies at Parul University, AWS Certified Cloud Practitioner certification, and the linked project work.
+
 ## Prerequisites
 - Node.js 20 LTS or newer
 - npm
@@ -58,9 +60,9 @@ manish-os/
 
 ## Before public submission
 - Replace generic LinkedIn links with your actual profile URL.
-- Update each project link to its exact repository/demo; do not imply a generic GitHub profile is a project repository.
-- Verify project descriptions and technologies reflect what is implemented.
-- Add accurate certifications, dates, and community achievements.
+- Verify each project link and description against the latest project state.
+- Keep certification dates, experience metrics, and community achievements accurate when the resume changes.
+- The resume is available from the Contact section at `/Manish.pdf`.
 - Test on mobile, keyboard-only navigation, and reduced-motion settings.
 - Capture screenshots of the site and the actual Amplify deployment/console.
 - Keep the website publicly reachable throughout judging.

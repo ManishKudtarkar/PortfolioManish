@@ -30,6 +30,8 @@
 - [x] Superpower Shell open, `help`, and `project ecommerce` tested.
 - [x] `Ctrl+K` / `Cmd+K` opening path tested.
 - [x] 390px viewport checked for horizontal overflow.
+- [x] Verified resume PDF included and linked from the Contact section.
+- [x] Verified public GitHub, LinkedIn, email, and project/demo links wired into the site.
 
 ## Write-up
 - [ ] Explain why the terminal is distinctive and how it works.
